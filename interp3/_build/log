@@ -1,0 +1,17 @@
+# dune utop
+# OCAMLPARAM: unset
+# Shared cache: enabled-except-user-rules
+# Shared cache location: /Users/mirandaquimbar/.cache/dune/db
+# Workspace root:
+# /Users/mirandaquimbar/Desktop/CS320/cs320-spring-2025-private/assigns/interp3
+# Auto-detected concurrency: 8
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; instrument_with = []
+#  }
+$ /Users/mirandaquimbar/.opam/cs320-s25/bin/ocamlc.opt -config > /var/folders/0n/cnv4t2l52rq4jb9g39xchggr0000gn/T/dune_c87971_output

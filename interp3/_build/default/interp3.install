@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/interp3/META"
+  "_build/install/default/lib/interp3/dune-package"
+  "_build/install/default/lib/interp3/opam"
+]
+bin: [
+  "_build/install/default/bin/interp3"
+]
